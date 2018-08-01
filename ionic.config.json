@@ -1,0 +1,8 @@
+{
+  "name": "test_del_cazzo_ionic_deeplink",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
